@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noisely</string>
+    <string name="share">Share...</string>
+    <string name="rate_app">Rate app</string>
+    <string name="about_creator">About the creator</string>
+    <string name="sharingtext">I just started to concentrate with the help of Noisely. Download it https://play.google.com/store/apps/details?id=alejandrohall.noiselyapp #Noisely</string>
+    <string name="infoapp">This app has been developed by Alejandro Hall | Follow me on Twitter: @Alejandro_Hall | Contact me: alejandropolvillo@gmail.com</string>
+
+    <string name="fire">Fire</string>
+    <string name="garden">Sounds of garden</string>
+    <string name="rain">Rain</string>
+    <string name="seaside">Seaside</string>
+    <string name="storm">Storm</string>
+    <string name="stormRain">Storm with rain</string>
+    <string name="night">Summer night</string>
+    <string name="water">Water stream</string>
+    <string name="wind">Wind</string>
+    <string name="comingSoon">More sounds coming soon...</string>
+
+    <string name="dialogTitle">Warning!</string>
+    <string name="dialogText">All the sounds will be stopped at time you set</string>
+
+</resources>

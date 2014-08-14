@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noisely</string>
+    <string name="share">Compartir...</string>
+    <string name="rate_app">Valorar aplicación</string>
+    <string name="about_creator">Sobre el creador</string>
+    <string name="sharingtext">Acabo de empezar a concentrarme gracias a Noisely. Descárgala aquí: https://play.google.com/store/apps/details?id=alejandrohall.noisely #Noisely</string>
+    <string name="infoapp">Esta aplicación ha sido desarrollada por Alejandro P. Hall | Sígueme en Twitter: @Alejandro_Hall | Contacto: alejandropolvillo@gmail.com</string>
+    
+    <string name="fire">Fuego</string>
+    <string name="garden">Sonidos de jardin</string>
+    <string name="rain">Lluvia</string>
+    <string name="seaside">Playa</string>
+    <string name="storm">Tormenta</string>
+    <string name="stormRain">Tormenta con lluvia</string>
+    <string name="night">Noche veraniega</string>
+    <string name="water">Flujo de agua</string>
+    <string name="wind">Viento</string>
+    <string name="comingSoon">Más sonidos vendrán pronto...</string>
+
+    <string name="dialogTitle">¡Atención!</string>
+    <string name="dialogText">Todos los sonidos se detendrán a la hora que indique</string>
+</resources>

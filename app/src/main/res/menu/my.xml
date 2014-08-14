@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <item android:id="@+id/Temp"
+        android:icon="@drawable/clock"
+        android:title=""
+        android:orderInCategory="1"
+        android:showAsAction="always"/>
+
+    <item android:id="@+id/share"
+        android:title="@string/share"
+        android:orderInCategory="2"
+        android:showAsAction="never" />
+    <item android:id="@+id/rate_app"
+        android:title="@string/rate_app"
+        android:orderInCategory="3"
+        android:showAsAction="never" />
+    <item android:id="@+id/about_creator"
+        android:title="@string/about_creator"
+        android:orderInCategory="4"
+        android:showAsAction="never" />
+
+</menu>
